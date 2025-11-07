@@ -1,3 +1,5 @@
+// App: composant racine avec routing React Router et providers
+
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import { CartProvider } from './contexts/CartContext';
