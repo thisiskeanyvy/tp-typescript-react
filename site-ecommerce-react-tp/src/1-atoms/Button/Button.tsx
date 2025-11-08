@@ -1,3 +1,5 @@
+// Composant Button: wrapper Material-UI avec support des props étendues
+
 import React from 'react';
 import { Button as MuiButton, ButtonProps as MuiButtonProps } from '@mui/material';
 

@@ -1,3 +1,5 @@
+// Composant Price: formatage des prix en EUR avec variantes de style
+
 import React from 'react';
 import { Typography } from '@mui/material';
 

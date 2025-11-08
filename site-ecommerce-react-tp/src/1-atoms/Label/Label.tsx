@@ -1,3 +1,5 @@
+// Composant Label: wrapper Typography pour cohérence du design system
+
 import React from 'react';
 import { Typography, TypographyProps } from '@mui/material';
 
