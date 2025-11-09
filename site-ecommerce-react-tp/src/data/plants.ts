@@ -1,3 +1,5 @@
+// Catalogue de plantes: données de démonstration avec catégories et soins
+
 export interface Plant {
   id: number;
   name: string;
