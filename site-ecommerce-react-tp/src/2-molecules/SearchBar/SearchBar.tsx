@@ -1,3 +1,5 @@
+// SearchBar: barre de recherche avec icône et gestion d'état
+
 import React, { useState } from 'react';
 import { TextField, InputAdornment } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';

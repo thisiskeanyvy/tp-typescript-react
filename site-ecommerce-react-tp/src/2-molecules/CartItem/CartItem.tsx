@@ -1,3 +1,5 @@
+// CartItem: élément panier avec contrôle quantité et suppression
+
 import React from 'react';
 import { Box, IconButton, Paper } from '@mui/material';
 import AddIcon from '@mui/icons-material/Add';

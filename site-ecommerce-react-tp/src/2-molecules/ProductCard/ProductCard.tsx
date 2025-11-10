@@ -1,3 +1,5 @@
+// ProductCard: carte produit avec navigation et affichage des détails
+
 import React from 'react';
 import { Card, CardContent, CardMedia, CardActions, Box } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
