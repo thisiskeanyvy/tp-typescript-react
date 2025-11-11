@@ -1,3 +1,6 @@
+// CartContext: gestion globale du panier avec Context API React
+// Fonctions: addToCart, removeFromCart, updateQuantity, clearCart, getTotalPrice
+
 import React, { createContext, useContext, useState, ReactNode } from 'react';
 import { Plant } from '../data/plants';
 
