@@ -1,3 +1,5 @@
+// Layout: template principal avec Header et contenu routable
+
 import React from 'react';
 import { Container } from '@mui/material';
 import Header from '../../3-organisms/Header';
