@@ -1,4 +1,11 @@
-# 🌱 ESIEE-IT MyPlants - Site E-commerce de Démo
+# TP - Introduction au fonctionnel
+
+```bash
+# Tester le TP typescript
+npm main.ts
+```
+
+# 🌱 ESIEE-IT MyPlants - Site E-commerce React de Démo
 
 ## Installation
 
