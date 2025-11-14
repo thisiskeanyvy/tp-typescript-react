@@ -2,7 +2,7 @@
 
 ```bash
 # Tester le TP typescript
-npm main.ts
+node main.ts
 ```
 
 # 🌱 ESIEE-IT MyPlants - Site E-commerce React de Démo
